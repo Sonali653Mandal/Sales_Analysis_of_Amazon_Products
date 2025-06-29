@@ -1,0 +1,22 @@
+Amazon Sales Analysis Dashboard (Power BI Project)
+Tools Used: Power BI, Excel, DAX, Power Query
+
+Developed an interactive Power BI dashboard to analyze and visualize the sales performance of Amazon products based on category, pricing, ratings, and availability.
+
+Cleaned and transformed raw Excel data using Power Query to ensure consistency and accuracy in analysis.
+
+Created DAX measures to calculate Total Revenue, Average Rating, Review Count, and Product Availability Rate.
+
+Designed dynamic visuals (bar charts, slicers, cards) to highlight top-performing product categories and identify trends in customer reviews and ratings.
+
+Implemented interactive filtering and drill-down features for detailed analysis across different product categories and pricing tiers.
+
+Outcome:
+
+Identified top 5 best-selling and highest-rated product categories, helping to recognize key revenue drivers.
+
+Discovered that products with a rating above 4.5 and more than 1,000 reviews had significantly higher sales performance.
+
+Highlighted that out-of-stock products in high-demand categories were limiting potential revenue, suggesting opportunities for inventory optimization.
+
+Delivered a ready-to-share dashboard that can be used by stakeholders for ongoing performance tracking and strategic product planning.
